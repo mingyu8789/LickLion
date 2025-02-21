@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mgook\\Desktop\\Unity\\study5\\",
+  "WorkspaceRootPath": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\study5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AF02F4B-1A3F-4EA5-95D4-CC98B8A6B055}|study5\\study5.csproj|c:\\users\\mgook\\desktop\\unity\\study5\\study5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AF02F4B-1A3F-4EA5-95D4-CC98B8A6B055}|study5\\study5.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\study5\\study5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AF02F4B-1A3F-4EA5-95D4-CC98B8A6B055}|study5\\study5.csproj|solutionrelative:study5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\study5\\study5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\study5\\study5\\Program.cs",
               "RelativeDocumentMoniker": "study5\\Program.cs",
-              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\study5\\study5\\Program.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\study5\\study5\\Program.cs",
               "RelativeToolTip": "study5\\Program.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAADwv3sAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:13:19.654Z",
               "EditorCaption": ""
