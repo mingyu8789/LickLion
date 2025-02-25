@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\나만의 게임\나만의 게임\obj\Debug\나만의 게임.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\나만의 게임\나만의 게임\obj\Debug\나만의 게임.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\나만의 게임\나만의 게임\bin\Debug\나만의 게임.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\나만의 게임\나만의 게임\bin\Debug\나만의 게임.exe
+C:\Users\mgook\Desktop\Unity\LickLion\나만의 게임\나만의 게임\bin\Debug\나만의 게임.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\나만의 게임\나만의 게임\obj\Debug\나만의 게임.exe
+C:\Users\mgook\Desktop\Unity\LickLion\나만의 게임\나만의 게임\obj\Debug\나만의 게임.pdb
