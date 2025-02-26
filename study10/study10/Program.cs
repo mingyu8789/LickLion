@@ -35,15 +35,14 @@ namespace study10
 
 
 
-            //int[] numbers = { 1, 2, 3 }; //간단한 선언과 초기화
-            //int[] numbers2 = new int[3]; //크기만 지정
-            //int[] numbers3 = new int[] { 1, 2, 3 }; //초기화와 함께 선언
+            int[] numbers = { 1, 2, 3 }; //간단한 선언과 초기화
+            int[] numbers2 = new int[3]; //크기만 지정
+            int[] numbers3 = new int[] { 1, 2, 3 }; //초기화와 함께 선언
 
 
-            //for(int i =0; i<3; i++)
-            //{
-            //    Console.WriteLine(numbers3 [i]);
-            //}
+
+            Console.WriteLine(numbers3[2]);
+       
 
 
 
@@ -193,29 +192,29 @@ namespace study10
 
 
 
-            //6.가변배열
-            Console.WriteLine("가변 배열");
-            int[][] jaggedArray = new int[3][];
+            ////6.가변배열
+            //Console.WriteLine("가변 배열");
+            //int[][] jaggedArray = new int[3][];
 
-            jaggedArray[0] = new int[] { 1, 2 };
-            jaggedArray[1] = new int[] { 3, 4, 5 };
-            jaggedArray[2] = new int[] { 6 };
-
-
-            for(int i=0; i<jaggedArray.Length; i++)
-            {
-                for(int j=0; j < jaggedArray[i].Length; j++)
-                {
-                    Console.Write($"{jaggedArray[i][j]}");
-                }
-                Console.WriteLine();
-            }
+            //jaggedArray[0] = new int[] { 1, 2 };
+            //jaggedArray[1] = new int[] { 3, 4, 5 };
+            //jaggedArray[2] = new int[] { 6 };
 
 
+            //for(int i=0; i<jaggedArray.Length; i++)
+            //{
+            //    for(int j=0; j < jaggedArray[i].Length; j++)
+            //    {
+            //        Console.Write($"{jaggedArray[i][j]}");
+            //    }
+            //    Console.WriteLine();
+            //}
 
-            Console.WriteLine("var 키워드 사용");
-            var numbers = new[] { 1, 2, 3, 4, 5 };
-            Console.WriteLine($"배열 타입: {numbers.GetType()}");
+
+
+            //Console.WriteLine("var 키워드 사용");
+            //var numbers = new[] { 1, 2, 3, 4, 5 };
+            //Console.WriteLine($"배열 타입: {numbers.GetType()}");
 
 
 
