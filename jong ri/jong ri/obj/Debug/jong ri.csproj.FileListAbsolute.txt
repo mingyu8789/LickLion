@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\jong ri\jong ri\bin\Debug\jong ri.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\jong ri\jong ri\bin\Debug\jong ri.exe
+C:\Users\mgook\Desktop\Unity\LickLion\jong ri\jong ri\bin\Debug\jong ri.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\jong ri\jong ri\obj\Debug\jong ri.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\jong ri\jong ri\obj\Debug\jong ri.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\jong ri\jong ri\obj\Debug\jong ri.exe
+C:\Users\mgook\Desktop\Unity\LickLion\jong ri\jong ri\obj\Debug\jong ri.pdb
