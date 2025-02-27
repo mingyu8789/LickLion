@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5C83F0-844E-44B8-ADE9-E065EEAEE018}|\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5C83F0-844E-44B8-ADE9-E065EEAEE018}|\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30.csproj|solutionrelative:\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\Program.cs",
+              "RelativeDocumentMoniker": "\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\Program.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\Program.cs",
+              "RelativeToolTip": "\uACFC\uC81C \uC778\uBCA4\uD1A0\uB9AC \uC288\uD305\uAC8C\uC784 \uD568\uC218 \uC368\uC11C \uB9CC\uB4E4\uAE30\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADgv0kAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:35:37.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

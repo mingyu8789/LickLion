@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
-using System.Threading;
 using System.Threading.Tasks;
 
-namespace 슈팅게임_만들기
+namespace 과제_인벤토리_슈팅게임_함수_써서_만들기
 {
     struct Player
     {
@@ -54,9 +53,7 @@ namespace 슈팅게임_만들기
     }
     class Program
     {
-
-
-        static void fly()
+        static void Main(string[] args)
         {
             Console.SetWindowSize(80, 25); // 콘솔 창 크기 설정 (가로 80, 세로 25)
             Console.SetBufferSize(80, 25); // 버퍼 크기도 동일하게 설정 (스크롤 방지)
@@ -91,12 +88,6 @@ namespace 슈팅게임_만들기
 
 
             }
-
-
-
-
-
-
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\인벤토리 만들기\인벤토리 만들기\bin\Debug\인벤토리 만들기.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\인벤토리 만들기\인벤토리 만들기\bin\Debug\인벤토리 만들기.exe
+C:\Users\mgook\Desktop\Unity\LickLion\인벤토리 만들기\인벤토리 만들기\bin\Debug\인벤토리 만들기.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\인벤토리 만들기\인벤토리 만들기\obj\Debug\인벤토리 만들기.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\인벤토리 만들기\인벤토리 만들기\obj\Debug\인벤토리 만들기.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\인벤토리 만들기\인벤토리 만들기\obj\Debug\인벤토리 만들기.exe
+C:\Users\mgook\Desktop\Unity\LickLion\인벤토리 만들기\인벤토리 만들기\obj\Debug\인벤토리 만들기.pdb

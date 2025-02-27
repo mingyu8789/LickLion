@@ -17,7 +17,7 @@ namespace 인벤토리_만들기
 
 
         //아이템 추가 함수
-        static void AddItem(string name, int count)
+        static void AddItem(string name, int count) //공간이름 AddItem(문자 name추가, 숫자 count추가)
         {
             for (int i = 0; i < MAX_ITEMS; i++)
             {
