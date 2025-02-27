@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\study18\study18\bin\Debug\study18.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\study18\study18\bin\Debug\study18.exe
+C:\Users\mgook\Desktop\Unity\LickLion\study18\study18\bin\Debug\study18.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\study18\study18\obj\Debug\study18.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\study18\study18\obj\Debug\study18.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\study18\study18\obj\Debug\study18.exe
+C:\Users\mgook\Desktop\Unity\LickLion\study18\study18\obj\Debug\study18.pdb
