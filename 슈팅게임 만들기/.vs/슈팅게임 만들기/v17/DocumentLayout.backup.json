@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1527129-41FF-41AB-88B3-30D7268E3CE0}|\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1527129-41FF-41AB-88B3-30D7268E3CE0}|\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30.csproj|solutionrelative:\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\Program.cs",
+              "RelativeDocumentMoniker": "\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\Program.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\Program.cs*",
+              "RelativeToolTip": "\uC288\uD305\uAC8C\uC784 \uB9CC\uB4E4\uAE30\\Program.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:04:37.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
