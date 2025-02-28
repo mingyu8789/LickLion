@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\C# 정리\C# 정리\obj\Debug\C# 정리.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\C# 정리\C# 정리\obj\Debug\C# 정리.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\C# 정리\C# 정리\bin\Debug\C# 정리.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\C# 정리\C# 정리\bin\Debug\C# 정리.exe
+C:\Users\mgook\Desktop\Unity\LickLion\C# 정리\C# 정리\bin\Debug\C# 정리.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\C# 정리\C# 정리\obj\Debug\C# 정리.exe
+C:\Users\mgook\Desktop\Unity\LickLion\C# 정리\C# 정리\obj\Debug\C# 정리.pdb
