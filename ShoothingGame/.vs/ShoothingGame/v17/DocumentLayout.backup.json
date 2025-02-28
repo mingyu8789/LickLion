@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\ShoothingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDB20CC-E2E4-4423-9D82-9781F6C3C972}|ShoothingGame\\ShoothingGame.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\shoothinggame\\shoothinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDDB20CC-E2E4-4423-9D82-9781F6C3C972}|ShoothingGame\\ShoothingGame.csproj|solutionrelative:shoothinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\ShoothingGame\\ShoothingGame\\Program.cs",
+              "RelativeDocumentMoniker": "ShoothingGame\\Program.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\ShoothingGame\\ShoothingGame\\Program.cs*",
+              "RelativeToolTip": "ShoothingGame\\Program.cs*",
+              "ViewState": "AgIAAA0CAAAAAAAAAAAAACICAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:11:21.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

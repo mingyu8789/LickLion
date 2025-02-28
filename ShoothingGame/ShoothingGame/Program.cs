@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 using System.Runtime.InteropServices;
+using System.Security.Permissions;
 using System.Text;
-using System.Threading;
 using System.Threading.Tasks;
 
-namespace 슈팅게임_만들기
+namespace ShoothingGame
 {
     //미사일 클래스
     public class BULLET
