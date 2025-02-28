@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\study21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5FFC19-A525-48F9-BFA9-6117625DE3E8}|study21\\study21.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\study21\\study21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5FFC19-A525-48F9-BFA9-6117625DE3E8}|study21\\study21.csproj|solutionrelative:study21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\study21\\study21\\Program.cs",
+              "RelativeDocumentMoniker": "study21\\Program.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\study21\\study21\\Program.cs",
+              "RelativeToolTip": "study21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:24:05.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
