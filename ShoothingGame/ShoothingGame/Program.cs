@@ -59,25 +59,7 @@ namespace ShoothingGame
 
         }
 
-        public void GameMain()
-        {
-            //키를 입력하는 부분
-            KeyControl();
-            //플레이얼를 그려준다.
-            PlayerDraw();
 
-            //UI점수
-            UIscore();
-
-            if (item.ItemLife)
-            {
-                item.ItemMove();
-                item.ItemDraw();
-                CrashItem();
-            }
-
-
-        }
 
         public void KeyControl()
         {
@@ -426,14 +408,6 @@ namespace ShoothingGame
         public int enemyX;  //X좌표
         public int enemyY;  //Y좌표
 
-        public Enemy()
-        {
-            //적 좌표 초기화
-            enemyX = 77;
-            enemyY = 12;
-
-        }
-
         public void EnemyDraw()//적그리기
         {
             string enemy = "<-0->"; //문자열로 표현
@@ -528,8 +502,7 @@ namespace ShoothingGame
                     dwTime = Environment.TickCount;
                     Console.Clear();
 
-                    //플레이어
-                    player.GameMain();
+
 
                     //총알
 
