@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\study24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0814D7-0D1A-4E60-908E-106531D96397}|study24\\study24.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\study24\\study24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0814D7-0D1A-4E60-908E-106531D96397}|study24\\study24.csproj|solutionrelative:study24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\study24\\study24\\Program.cs",
+              "RelativeDocumentMoniker": "study24\\Program.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\study24\\study24\\Program.cs*",
+              "RelativeToolTip": "study24\\Program.cs*",
+              "ViewState": "AgIAAIcBAAAAAAAAAAAkwKsBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:13:38.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
