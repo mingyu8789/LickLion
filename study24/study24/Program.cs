@@ -247,25 +247,25 @@ namespace study24
 
 
 
-            ////예외처리하기
+            //예외처리하기
 
-            ////예외는 프로그램실행 중 발생하는 오류입니다. 예외를 처리하면 프로그램이 중단되지않고
-            ////실행을 계속할수있습니다.
-            ////try catch 
+            //예외는 프로그램실행 중 발생하는 오류입니다. 예외를 처리하면 프로그램이 중단되지않고
+            //실행을 계속할수있습니다.
+            //try catch 
 
-            //while (true)
-            //{
+            while (true)
+            {
 
-            //    try
-            //    {
-            //        int[] numbers = { 1, 2, 3 };
-            //        Console.WriteLine(numbers[5]); //오류 발생
-            //    }
-            //    catch (IndexOutOfRangeException ex)
-            //    {
-            //        Console.WriteLine($"Error : {ex.Message}");
-            //    }
-            //}
+                try
+                {
+                    int[] numbers = { 1, 2, 3 };
+                    Console.WriteLine(numbers[5]); //오류 발생
+                }
+                catch (IndexOutOfRangeException ex)
+                {
+                    Console.WriteLine($"Error : {ex.Message}");
+                }
+            }
 
 
 
