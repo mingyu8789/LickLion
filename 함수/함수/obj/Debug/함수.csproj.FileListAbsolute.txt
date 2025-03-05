@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\함수\함수\bin\Debug\함수.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\함수\함수\bin\Debug\함수.exe
+C:\Users\mgook\Desktop\Unity\LickLion\함수\함수\bin\Debug\함수.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\함수\함수\obj\Debug\함수.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\함수\함수\obj\Debug\함수.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\함수\함수\obj\Debug\함수.exe
+C:\Users\mgook\Desktop\Unity\LickLion\함수\함수\obj\Debug\함수.pdb

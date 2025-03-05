@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\과제\과제\bin\Debug\과제.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\과제\과제\bin\Debug\과제.exe
+C:\Users\mgook\Desktop\Unity\LickLion\과제\과제\bin\Debug\과제.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\과제\과제\obj\Debug\과제.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\과제\과제\obj\Debug\과제.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\과제\과제\obj\Debug\과제.exe
+C:\Users\mgook\Desktop\Unity\LickLion\과제\과제\obj\Debug\과제.pdb
