@@ -10,6 +10,8 @@ namespace BrickGame
     public class Ball
     {
         BALLDATA m_tBall = new BALLDATA();
+        public BALLDATA bblock = new BALLDATA();
+        public BARDATA m_tBar = new BARDATA();
 
         //C#공의 방향 배열 정의 
         int[,] g_WallCollision = new int[4, 6]
@@ -97,6 +99,38 @@ namespace BrickGame
 
         public int Collision(int x, int y)
         {
+            int a = 0;
+
+            m_tBar.bX[0] = 10;
+            m_tBar.bX[1] = 15;
+            m_tBar.bX[2] = 20;
+
+            m_tBar.bY[0] = 10;
+
+            if (a == 0)
+            {
+                Program.gotoxy(m_tBar.bX[0], m_tBar.bY[0]);
+                Console.Write(bblock.block = "■");
+                Program.gotoxy(m_tBar.bX[1], m_tBar.bY[0]);
+                Console.Write(bblock.block = "■");
+                Program.gotoxy(m_tBar.bX[2], m_tBar.bY[0]);
+                Console.Write(bblock.block = "■");
+            }
+            else
+            {
+                Program.gotoxy(m_tBar.bX[0], m_tBar.bY[0]);
+                Console.Write(bblock.block = "");
+                Program.gotoxy(m_tBar.bX[1], m_tBar.bY[0]);
+                Console.Write(bblock.block = "");
+                Program.gotoxy(m_tBar.bX[2], m_tBar.bY[0]);
+                Console.Write(bblock.block = "");
+            }
+
+
+
+
+
+
             //벽충돌
             if (y == 0)
             {
@@ -153,10 +187,45 @@ namespace BrickGame
                 return 1; //방향이 바뀐다.
             }
 
+            if (x >= m_pBar.m_tBar.bX[0] && x <= m_pBar.m_tBar.bX[2] + 1 &&
+                y == (m_pBar.m_tBar.bY[0])) //바 위 충돌
+            {
+
+                a++;
+
+                if (m_tBall.nDirect == 1)
+                    m_tBall.nDirect = 2;
+                else if (m_tBall.nDirect == 2)
+                    m_tBall.nDirect = 1;
+                else if (m_tBall.nDirect == 5)
+                    m_tBall.nDirect = 4;
+                else if (m_tBall.nDirect == 4)
+                    m_tBall.nDirect = 5;
+
+                return 1; //방향이 바뀐다.
+            }
+
+
+            if (x >= m_pBar.m_tBar.bX[0] && x <= m_pBar.m_tBar.bX[2] + 1 &&
+               y == (m_pBar.m_tBar.bY[0]+1)) //바 위 충돌
+            {
+
+                a++;
+
+                if (m_tBall.nDirect == 1)
+                    m_tBall.nDirect = 2;
+                else if (m_tBall.nDirect == 2)
+                    m_tBall.nDirect = 1;
+                else if (m_tBall.nDirect == 5)
+                    m_tBall.nDirect = 4;
+                else if (m_tBall.nDirect == 4)
+                    m_tBall.nDirect = 5;
+
+                return 1; //방향이 바뀐다.
+            }
+
             return 0;
         }
-
-
 
 
 

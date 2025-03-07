@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{751EDE91-30B0-4BC2-8695-6F17C435CA89}</ProjectGuid>
+    <ProjectGuid>{E9067191-4D1F-481F-AD4E-D8BFEE41DFC5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BricGame</RootNamespace>
-    <AssemblyName>BricGame</AssemblyName>
+    <RootNamespace>텍스트알피지시험</RootNamespace>
+    <AssemblyName>텍스트알피지시험</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ball.cs" />
-    <Compile Include="BALLDATA.cs" />
-    <Compile Include="Bar.cs" />
-    <Compile Include="BARDATA.cs" />
-    <Compile Include="Block.cs" />
-    <Compile Include="GameManager.cs" />
+    <Compile Include="INFO.cs" />
+    <Compile Include="MainGame.cs" />
+    <Compile Include="Monster.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -3,27 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\bricgame\\bricgame\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|solutionrelative:bricgame\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\bricgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|solutionrelative:bricgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\bricgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|solutionrelative:bricgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\bricgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|solutionrelative:bricgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\bricgame\\bricgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|solutionrelative:bricgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\bricgame\\bricgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|solutionrelative:bricgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\bricgame\\bricgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|solutionrelative:bricgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\bricgame\\bricgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\bricgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|solutionrelative:bricgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\bricgame\\bricgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|solutionrelative:bricgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\bricgame\\bricgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\bricgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{751EDE91-30B0-4BC2-8695-6F17C435CA89}|BricGame\\BricGame.csproj|solutionrelative:bricgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,58 +38,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BARDATA.cs",
-              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\BARDATA.cs",
-              "RelativeDocumentMoniker": "BricGame\\BARDATA.cs",
-              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\BARDATA.cs",
-              "RelativeToolTip": "BricGame\\BARDATA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Block.cs",
+              "RelativeDocumentMoniker": "BricGame\\Block.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Block.cs*",
+              "RelativeToolTip": "BricGame\\Block.cs*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwIwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:25:00.716Z",
+              "WhenOpened": "2025-03-07T08:38:15.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Bar.cs",
-              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Bar.cs",
-              "RelativeDocumentMoniker": "BricGame\\Bar.cs",
-              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Bar.cs",
-              "RelativeToolTip": "BricGame\\Bar.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwB0AAAAnAAAAAAAAAA==",
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Ball.cs",
+              "RelativeDocumentMoniker": "BricGame\\Ball.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Ball.cs",
+              "RelativeToolTip": "BricGame\\Ball.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwC0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:23:24.637Z",
+              "WhenOpened": "2025-03-07T01:43:41.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\GameManager.cs",
               "RelativeDocumentMoniker": "BricGame\\GameManager.cs",
               "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\GameManager.cs",
               "RelativeToolTip": "BricGame\\GameManager.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAYwDQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T02:23:14.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ball.cs",
-              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Ball.cs",
-              "RelativeDocumentMoniker": "BricGame\\Ball.cs",
-              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Ball.cs*",
-              "RelativeToolTip": "BricGame\\Ball.cs*",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJIAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BARDATA.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\BARDATA.cs",
+              "RelativeDocumentMoniker": "BricGame\\BARDATA.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\BARDATA.cs",
+              "RelativeToolTip": "BricGame\\BARDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T01:43:41.877Z",
+              "WhenOpened": "2025-03-07T04:25:00.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Bar.cs",
+              "RelativeDocumentMoniker": "BricGame\\Bar.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Bar.cs",
+              "RelativeToolTip": "BricGame\\Bar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:23:24.637Z",
               "EditorCaption": ""
             },
             {
@@ -96,7 +113,7 @@
               "RelativeDocumentMoniker": "BricGame\\BALLDATA.cs",
               "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\BALLDATA.cs",
               "RelativeToolTip": "BricGame\\BALLDATA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T01:38:33.608Z",
               "EditorCaption": ""
@@ -109,7 +126,7 @@
               "RelativeDocumentMoniker": "BricGame\\Program.cs",
               "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\BricGame\\BricGame\\Program.cs",
               "RelativeToolTip": "BricGame\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T01:37:26.551Z",
               "EditorCaption": ""

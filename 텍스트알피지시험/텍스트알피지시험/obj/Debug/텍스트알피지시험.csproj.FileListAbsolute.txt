@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\텍스트알피지시험\텍스트알피지시험\bin\Debug\텍스트알피지시험.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\텍스트알피지시험\텍스트알피지시험\bin\Debug\텍스트알피지시험.exe
+C:\Users\mgook\Desktop\Unity\LickLion\텍스트알피지시험\텍스트알피지시험\bin\Debug\텍스트알피지시험.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\텍스트알피지시험\텍스트알피지시험\obj\Debug\텍스트알피지시험.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\텍스트알피지시험\텍스트알피지시험\obj\Debug\텍스트알피지시험.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\텍스트알피지시험\텍스트알피지시험\obj\Debug\텍스트알피지시험.exe
+C:\Users\mgook\Desktop\Unity\LickLion\텍스트알피지시험\텍스트알피지시험\obj\Debug\텍스트알피지시험.pdb

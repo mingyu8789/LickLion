@@ -10,5 +10,8 @@ namespace BricGame
     {
         public int[] nX = new int[3];
         public int nY;
+
+        public int[] bX = new int[10];
+        public int[] bY = new int[10];
     }
 }

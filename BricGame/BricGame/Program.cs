@@ -24,6 +24,12 @@ namespace BricGame
 
         static void Main(string[] args)
         {
+            BALLDATA bblock = new BALLDATA();
+            BARDATA m_tBar = new BARDATA();
+
+
+
+
             Console.SetWindowSize(80, 25);
             Console.SetBufferSize(80, 25);
 
@@ -31,6 +37,7 @@ namespace BricGame
             gm.Initialize();
 
             int Curr = Environment.TickCount;
+
 
             while (true)
             {
