@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.exe
+C:\Users\mgook\Desktop\Unity\LickLion\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.exe
+C:\Users\mgook\Desktop\Unity\LickLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.pdb

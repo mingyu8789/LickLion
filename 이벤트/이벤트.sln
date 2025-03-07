@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "이벤트", "이벤트\이벤트.csproj", "{42D5CF63-0566-492F-BD15-1963C3899EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D5CF63-0566-492F-BD15-1963C3899EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D5CF63-0566-492F-BD15-1963C3899EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D5CF63-0566-492F-BD15-1963C3899EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D5CF63-0566-492F-BD15-1963C3899EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05664009-6F6B-462B-9311-DE6B223D62E8}
+	EndGlobalSection
+EndGlobal

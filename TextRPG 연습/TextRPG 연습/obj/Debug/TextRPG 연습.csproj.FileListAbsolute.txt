@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\TextRPG 연습\TextRPG 연습\bin\Debug\TextRPG 연습.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\TextRPG 연습\TextRPG 연습\bin\Debug\TextRPG 연습.exe
+C:\Users\mgook\Desktop\Unity\LickLion\TextRPG 연습\TextRPG 연습\bin\Debug\TextRPG 연습.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\TextRPG 연습\TextRPG 연습\obj\Debug\TextRPG 연습.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\TextRPG 연습\TextRPG 연습\obj\Debug\TextRPG 연습.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\TextRPG 연습\TextRPG 연습\obj\Debug\TextRPG 연습.exe
+C:\Users\mgook\Desktop\Unity\LickLion\TextRPG 연습\TextRPG 연습\obj\Debug\TextRPG 연습.pdb

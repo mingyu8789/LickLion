@@ -1,0 +1,7 @@
+C:\Users\mgook\Desktop\Unity\LickLion\BricGame\BricGame\bin\Debug\BricGame.exe.config
+C:\Users\mgook\Desktop\Unity\LickLion\BricGame\BricGame\bin\Debug\BricGame.exe
+C:\Users\mgook\Desktop\Unity\LickLion\BricGame\BricGame\bin\Debug\BricGame.pdb
+C:\Users\mgook\Desktop\Unity\LickLion\BricGame\BricGame\obj\Debug\BricGame.csproj.AssemblyReference.cache
+C:\Users\mgook\Desktop\Unity\LickLion\BricGame\BricGame\obj\Debug\BricGame.csproj.CoreCompileInputs.cache
+C:\Users\mgook\Desktop\Unity\LickLion\BricGame\BricGame\obj\Debug\BricGame.exe
+C:\Users\mgook\Desktop\Unity\LickLion\BricGame\BricGame\obj\Debug\BricGame.pdb

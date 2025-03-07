@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TextRPG \uC5F0\uC2B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E30AD5-030C-4E30-96D0-4317B7F4239A}|TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\textrpg \uC5F0\uC2B5\\textrpg \uC5F0\uC2B5\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E30AD5-030C-4E30-96D0-4317B7F4239A}|TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5.csproj|solutionrelative:textrpg \uC5F0\uC2B5\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E30AD5-030C-4E30-96D0-4317B7F4239A}|TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\textrpg \uC5F0\uC2B5\\textrpg \uC5F0\uC2B5\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E30AD5-030C-4E30-96D0-4317B7F4239A}|TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5.csproj|solutionrelative:textrpg \uC5F0\uC2B5\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E30AD5-030C-4E30-96D0-4317B7F4239A}|TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\textrpg \uC5F0\uC2B5\\textrpg \uC5F0\uC2B5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E30AD5-030C-4E30-96D0-4317B7F4239A}|TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5.csproj|solutionrelative:textrpg \uC5F0\uC2B5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E30AD5-030C-4E30-96D0-4317B7F4239A}|TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\textrpg \uC5F0\uC2B5\\textrpg \uC5F0\uC2B5\\classic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E30AD5-030C-4E30-96D0-4317B7F4239A}|TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5.csproj|solutionrelative:textrpg \uC5F0\uC2B5\\classic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5\\MainGame.cs",
+              "RelativeDocumentMoniker": "TextRPG \uC5F0\uC2B5\\MainGame.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5\\MainGame.cs",
+              "RelativeToolTip": "TextRPG \uC5F0\uC2B5\\MainGame.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:13:46.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5\\Player.cs",
+              "RelativeDocumentMoniker": "TextRPG \uC5F0\uC2B5\\Player.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5\\Player.cs*",
+              "RelativeToolTip": "TextRPG \uC5F0\uC2B5\\Player.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:29:18.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Classic.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5\\Classic.cs",
+              "RelativeDocumentMoniker": "TextRPG \uC5F0\uC2B5\\Classic.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5\\Classic.cs",
+              "RelativeToolTip": "TextRPG \uC5F0\uC2B5\\Classic.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:27:02.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5\\Program.cs",
+              "RelativeDocumentMoniker": "TextRPG \uC5F0\uC2B5\\Program.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TextRPG \uC5F0\uC2B5\\TextRPG \uC5F0\uC2B5\\Program.cs",
+              "RelativeToolTip": "TextRPG \uC5F0\uC2B5\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:40:31.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

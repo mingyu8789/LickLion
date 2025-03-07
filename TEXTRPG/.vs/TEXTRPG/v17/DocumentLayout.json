@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|c:\\users\\mgook\\desktop\\unity\\licklion\\textrpg\\textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B491025-D255-4E22-A352-2DA5970154E8}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\Field.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Field.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\Field.cs",
+              "RelativeToolTip": "TEXTRPG\\Field.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwHgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:02:54.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\Monster.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Monster.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\Monster.cs",
+              "RelativeToolTip": "TEXTRPG\\Monster.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:04:06.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\MainGame.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\MainGame.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\MainGame.cs",
+              "RelativeToolTip": "TEXTRPG\\MainGame.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:32:08.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\Player.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Player.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\Player.cs",
+              "RelativeToolTip": "TEXTRPG\\Player.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:12:56.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\INFO.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\INFO.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\INFO.cs",
+              "RelativeToolTip": "TEXTRPG\\INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:11:00.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\Program.cs",
+              "RelativeDocumentMoniker": "TEXTRPG\\Program.cs",
+              "ToolTip": "C:\\Users\\mgook\\Desktop\\Unity\\LickLion\\TEXTRPG\\TEXTRPG\\Program.cs",
+              "RelativeToolTip": "TEXTRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:05:53.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
